@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="480" src="./.github/showcase.png">
+    <img width="512" src="./.github/showcase.png">
 </p>
 
 ### ⚙️ Requirements
